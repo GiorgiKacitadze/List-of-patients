@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  text-align: left;
+}
+
+@font-face {
+  font-family: "bpg_banner_caps";
+  src: url(./bpg_banner_caps.ttf);
 }
 
 .App-logo {
